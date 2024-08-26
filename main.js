@@ -3,11 +3,11 @@ const animationTimeline = () => {
 
   
 document.getElementById("main-webpage-button").addEventListener("click", function() { 
-   var password = prompt("Enter the password to access this content (Only accessible to Kiran 😁):"); 
-   if (password === "kiran2002") { 
-     window.location.href = "https://birthday-wish-to-someone-special.blogspot.com/"; 
+   var password = prompt("Enter the password to access this content (Only accessible to You all):"); 
+   if (password === "Jurassic") { 
+     window.location.href = "https://rajesh54726.github.io/Jurassic-Beyond-Freshers-Edition/"; 
    } else { 
-     alert("Incorrect password. Please try again."); 
+     alert("Incorrect password. Please try again or ask us."); 
    } 
  });
 
